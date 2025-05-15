@@ -1,5 +1,0 @@
-{
-  "gameName": "TestGame",
-  "id": 1,
-  "code": "<!DOCTYPE html><html><head><title>Test</title></head><body><h1>Hello from JSON code!</h1><script>console.log('Running JS!');</script></body></html>"
-}
